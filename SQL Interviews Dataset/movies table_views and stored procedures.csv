@@ -1,0 +1,21 @@
+Movie ID,Title,Release Date,Genre ID,Rating
+101,The Matrix,31/03/1999,1,8.7
+102,Inception,16/07/2010,1,8.8
+103,Jurassic Park,11/06/1993,2,8.1
+104,The Avengers,04/05/2012,3,8
+105,Avatar,18/12/2009,4,7.8
+106,Titanic,19/12/1997,5,7.8
+107,The Lion King,24/06/1994,6,8.5
+108,The Dark Knight,18/07/2008,3,9
+109,Toy Story,22/11/1995,7,8.3
+110,Forrest Gump,06/07/1994,8,8.8
+111,Finding Nemo,30/05/2003,7,8.1
+112,Star Wars,25/05/1977,9,8.6
+113,The Lord of the Rings,19/12/2001,10,8.8
+114,Harry Potter,16/11/2001,11,7.6
+115,Spider-Man,03/05/2002,3,7.3
+116,Pirates of the Caribbean,09/07/2003,12,8
+117,Shrek,18/05/2001,7,7.8
+118,E.T. The Extra-Terrestrial,11/06/1982,13,7.8
+119,Frozen,27/11/2013,7,7.4
+120,The Terminator,26/10/1984,1,8
